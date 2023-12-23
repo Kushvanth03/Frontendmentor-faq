@@ -50,6 +50,7 @@ body{
 .faq-title{
     width:90%;
     font-size: 1rem; 
+    font-weight: 500;
 }
 .faq-title:hover{
     color: #A032D7;

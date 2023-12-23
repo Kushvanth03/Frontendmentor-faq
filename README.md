@@ -15,11 +15,12 @@ Users should be able to:
 
 ### Screenshot
 ![Desktop view](desktop-version.png)
+![Mobile view](mobile-version.jpg)
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kushvanth03/Frontendmentor-faq)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [Github repo](https://github.com/Kushvanth03/Frontendmentor-faq)
+- Live Site URL: [Live site](https://kushvanth03.github.io/Frontendmentor-faq/)
 
 ## My process
 
