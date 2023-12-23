@@ -14,9 +14,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+Desktop view:
 ![Desktop view](desktop-version.png)
-![Mobile view](mobile-version.jpg)
-
+Responsive view:
+<img src="mobile-version.jpg" width="200" height="500">
 ### Links
 
 - Solution URL: [Github repo](https://github.com/Kushvanth03/Frontendmentor-faq)
