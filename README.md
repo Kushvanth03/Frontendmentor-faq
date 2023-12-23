@@ -16,8 +16,8 @@ Users should be able to:
 ### Screenshot
 Desktop view:
 ![Desktop view](desktop-version.png)
-Responsive view:
-<img src="mobile-version.jpg" width="200" height="500">
+Responsive view: <br>
+<img src="mobile-version.jpg" width="400" height="600">
 ### Links
 
 - Solution URL: [Github repo](https://github.com/Kushvanth03/Frontendmentor-faq)
